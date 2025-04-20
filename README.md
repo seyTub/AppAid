@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @AppAid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-AppAid/AppAid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 2025年超流畅VPN，畅享高清世界
+- 👀 免费使用，无需繁琐操作，轻松上手
+- 🌱 丰富节点，覆盖全球，满足多样需求
+- 💞️ 
+- 📫 速翻翻|打开世界的网络
+- 😄 因为专注|所以专业
+- ⚡ <a href="https://sufanfan.com/">速翻翻导航页</a>
